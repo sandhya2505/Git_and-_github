@@ -31,3 +31,11 @@ git add :adds new or chnged files in your directory to the git staging area
 ......//syntax git add <-file name->
 <br>
 <br>
+push command
+<br>
+<br>
+push == Upload local repo to remote repo
+<br>
+<br>
+git push origin main
+
